@@ -1,0 +1,14 @@
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.csproj.AssemblyReference.cache
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.GeneratedMSBuildEditorConfig.editorconfig
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.AssemblyInfoInputs.cache
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.AssemblyInfo.cs
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.csproj.CoreCompileInputs.cache
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\bin\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.exe
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\bin\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.deps.json
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\bin\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.runtimeconfig.json
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\bin\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.runtimeconfig.dev.json
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\bin\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.dll
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\bin\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.pdb
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.dll
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.pdb
+H:\5ème\2022-2023\Programmation2.0\interro\interro matrice avec le triangle bizarre\IMATP5_Ramsamy_Ewan\IMATP5_Ramsamy_Ewan\obj\Debug\netcoreapp3.1\IMATP5_Ramsamy_Ewan.genruntimeconfig.cache
